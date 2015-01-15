@@ -1,0 +1,22 @@
+{
+  "name": "forest_roads",
+  "version": "1.0.0",
+  "description": "A stylesheet for generating tiles using Mapnik and Kosmtik/Tilemill from US Forest Service data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/systemed/forest_roads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/systemed/forest_roads/issues"
+  },
+  "homepage": "https://github.com/systemed/forest_roads",
+  "dependencies": {
+    "pgexplode": "^1.0.1"
+  }
+}
